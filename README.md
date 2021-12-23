@@ -11,9 +11,9 @@ Links:
 - LANDING PAGE COM HTML e CSS! </br>
 https://www.youtube.com/watch?v=llF6vD-RljE
 
-- Comunidade no Discord: 
+- Comunidade no Discord:  </br>
 https://discord.gg/wagxzStdcR
 
 <p align="center">
-  <img src="https://github.com/Gilbert097/Balle-Bot-Landing-Page/blob/master/balle-bot-page.png?raw=true" width="350">
+  <img src="https://github.com/Gilbert097/Balle-Bot-Landing-Page/blob/master/balle-bot-page.png?raw=true" width="500">
 </p>
