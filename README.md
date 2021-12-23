@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=llF6vD-RljE
 https://discord.gg/wagxzStdcR
 
 <p align="center">
-  <img src="https://github.com/Gilbert097/Balle-Bot-Landing-Page/blob/master/balle-bot-page.png?raw=true" width="500">
+  <img src="https://github.com/Gilbert097/Balle-Bot-Landing-Page/blob/master/balle-bot-page.png?raw=true" width="700">
 </p>
