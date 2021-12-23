@@ -8,7 +8,7 @@ No desenvolvimento desse projeto foi possível aprender e relembrar vários conc
 
 Links:
 
-- LANDING PAGE COM HTML e CSS!
+- LANDING PAGE COM HTML e CSS! </br>
 https://www.youtube.com/watch?v=llF6vD-RljE
 
 - Comunidade no Discord: 
